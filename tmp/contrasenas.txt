@@ -1,3 +1,6 @@
 user:password
-jperez:secret
+algo:algo
+jperez:cekreto
 jdoe:123456
+algo:algo
+algo:alog
