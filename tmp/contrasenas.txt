@@ -1,0 +1,3 @@
+user:password
+jperez:secret
+jdoe:123456
